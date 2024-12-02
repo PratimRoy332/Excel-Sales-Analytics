@@ -1,2 +1,3 @@
 # Excel-Sales-Analytics
-Sales, P &amp; L
+Sales, Profit & loss
+
